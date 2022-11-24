@@ -27,7 +27,7 @@ also have the integration of those components in one funtional file, other one f
 No known bugs at this time.
 
 # Author
-This project was buit By [Laurajcb](https://www.linkedin.com/in/laura-callejas-she-her-16b710208/)  <callejaslaura96@gmail.com> .
+This project was buit By [Laurajcb](https://www.linkedin.com/in/laurajcb/)  <callejaslaura96@gmail.com> .
 
 # License
 Public Domain. No copy write protection.
