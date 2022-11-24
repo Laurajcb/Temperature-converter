@@ -18,9 +18,9 @@
 This repository counts with all the components in an individual file with its own styles and 
 also have the integration of those components in one funtional file, other one for styles and JS.
 
-![Desktop view](https://github.com/Laurajcb/e-commerce/blob/main/assets/127.0.0.1_5500_%20(1).png)
+![Desktop view](https://github.com/Laurajcb/temperature-converter/blob/main/src/assets/localhost_3000__%20(1).png)
 
-![Mobile view](https://github.com/Laurajcb/e-commerce/blob/main/assets/mobileV.png)
+![Mobile view](https://github.com/Laurajcb/temperature-converter/blob/main/src/assets/localhost_3000__.png)
 
 
 # Bugs
