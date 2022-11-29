@@ -11,11 +11,9 @@ function Converter() {
 
   const handleValue = event => {
     setValue(event.target.value);
-    console.log('value is: ', event.target.value);
   }
   const handleScale = event => {
     setScaleValue(event.target.value);
-    console.log('Scale Choosed', event.target.value);
   }
 
 
@@ -25,12 +23,12 @@ function Converter() {
     switch (scale) {
       case 'Celsius':
         setCelsius(parsedValue)
-        Math.round(setKelvin(parsedValue + 273.15))
+        setKelvin(Math.round(parsedValue + 273.15))
         break;
 
       case 'Kelvin':
         setKelvin(parsedValue)
-        Math.round(setCelsius(parsedValue - 273.15))
+        setCelsius(Math.round(parsedValue - 273.15))
         break;
 
       default:
